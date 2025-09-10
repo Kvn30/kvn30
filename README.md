@@ -26,25 +26,7 @@ Passionate about building scalable, user-friendly solutions and always exploring
 </a>
 
 
-## 🛠️ Projects
 
-### 🧠 Analysis of EEG Signal
-- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Web Application  
-- **Description:** Built a system to classify mental states (Relaxed, Focused, Neutral) using brain wave data.  
-- **Highlights:**  
-  - Achieved **84.5% accuracy** on dataset.  
-  - Trained ML model for brain signal classification.  
-  - Created a **web app** for instant EEG results visualization.  
-
----
-
-### ⚖️ Legal Chatbot using Gemini API
-- **Tech Stack:** Python, Flask, Google Gemini API  
-- **Description:** A chatbot that answers queries on **Indian legal topics**.  
-- **Highlights:**  
-  - Integrated **Gemini API** for generating accurate legal responses.  
-  - Flask-based API for smooth user interaction.  
-  - Added filters to ensure chatbot stays focused on **legal queries only**.  
 
 ---
 
